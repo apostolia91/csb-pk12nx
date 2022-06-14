@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://apostolia91.github.io/csb-pk12nx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://apostolia91.github.io/csb-pk12nx/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://apostolia91.github.io/csb-pk12nx/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://apostolia91.github.io/csb-pk12nx/static/js/runtime-main.ae59f166.js",
+    "runtime-main.js.map": "https://apostolia91.github.io/csb-pk12nx/static/js/runtime-main.ae59f166.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://apostolia91.github.io/csb-pk12nx/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://apostolia91.github.io/csb-pk12nx/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://apostolia91.github.io/csb-pk12nx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://apostolia91.github.io/csb-pk12nx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://apostolia91.github.io/csb-pk12nx/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae59f166.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
